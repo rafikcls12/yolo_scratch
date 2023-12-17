@@ -1,0 +1,11 @@
+COCO dataset adalah kumpulan data besar yang berisi gambar-gambar dengan berbagai objek yang dapat ditemui sehari-hari, 
+seperti manusia, hewan, kendaraan, dan lainnya. Sementara YOLO adalah suatu metode deteksi objek real-time yang dapat mengenali 
+dan melokalisasi objek-objek tersebut dalam satu frame gambar.
+
+https://www.kaggle.com/datasets/79abcc2659dc745fddfba1864438afb2fac3fabaa5f37daa8a51e36466db101e
+
+jumlah dataset 246 ribu
+    bentuk jpg 123k
+    bentuk txt 122k
+
+untuk label class dari coco: total 72 label
